@@ -20,4 +20,5 @@ int main(){
     printf("o total a pagar:R$%.2f",total);
 
     return 0;
+    
 }
