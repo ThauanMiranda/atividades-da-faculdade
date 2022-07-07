@@ -2,7 +2,7 @@
 int main(){
 
     int dias;
-    float fixo, total;
+    float fixo, total; //programa que informa o valor a ser pago dependendo da quantidade de noites no hotel
 
     fixo= 200.00;
 
