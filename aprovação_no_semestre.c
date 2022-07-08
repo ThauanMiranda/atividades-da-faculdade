@@ -18,11 +18,9 @@ int main(){
 
     media = (nota1 + nota2 + avd) /3;
 
-    if(media >= 6 && frequencia>=70);
+    if(media >= 6 && frequencia>=70)
     printf("aprovado");
-    //else //erro aqui
-
-    //if(media < 6 && frequencia <70);
+    else
     printf("reprovado");
 
     return 0;
