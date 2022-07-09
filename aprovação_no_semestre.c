@@ -1,4 +1,4 @@
-#include<stdio.h>// programa em desenvolvimento 
+#include<stdio.h>
 int main(){
 
     int frequencia;
