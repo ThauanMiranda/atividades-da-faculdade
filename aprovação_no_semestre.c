@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int main(){ //programa em funcionamento 
 
     int frequencia;
     float nota1,nota2,avd,media;
